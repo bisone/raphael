@@ -1,5 +1,5 @@
 {
-  "name": "raphael",
+  "name": "webpack-raphael",
   "version": "2.1.4",
   "description": "JavaScript Vector Library",
   "main": "raphael-min.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/DmitryBaranovskiy/raphael.git"
+    "url": "https://github.com/bisone/raphael.git"
   },
   "author": {
     "name": "Dmitry Baranovskiy"
